@@ -5,5 +5,7 @@
 
 # use it
  you need VS 2022
+ 
  put images in console_drawer/image; tweak path in Program.cs
+ 
  run the console_drawer program; it uses the Drawer library (printer.cs) to do things. 
