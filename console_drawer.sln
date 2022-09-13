@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "console_drawer", "console_drawer\console_drawer.csproj", "{FAB17455-62C5-4BF6-BE1C-1248382BE4E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "drawer", "drawer\drawer.csproj", "{D95FCE84-8A10-4924-93EA-CADA3E173773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB17455-62C5-4BF6-BE1C-1248382BE4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB17455-62C5-4BF6-BE1C-1248382BE4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB17455-62C5-4BF6-BE1C-1248382BE4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB17455-62C5-4BF6-BE1C-1248382BE4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95FCE84-8A10-4924-93EA-CADA3E173773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95FCE84-8A10-4924-93EA-CADA3E173773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95FCE84-8A10-4924-93EA-CADA3E173773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95FCE84-8A10-4924-93EA-CADA3E173773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F6D5ED-B4DA-46BB-9E89-6B2C4A827801}
+	EndGlobalSection
+EndGlobal
